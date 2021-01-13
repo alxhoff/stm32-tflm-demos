@@ -1,12 +1,12 @@
 [submodule "examples/hello_world"]
 	path = examples/hello_world
-	url = https://github.com/PhilippvK/stm32-tflm-hello-world.git
+	url = https://github.com/tum-ei-eda/stm32-tflm-hello-world.git
 [submodule "examples/micro_speech"]
 	path = examples/micro_speech
-	url = https://github.com/PhilippvK/stm32-tflm-micro-speech.git
+	url = https://github.com/tum-ei-eda/stm32-tflm-micro-speech.git
 [submodule "examples/mnist"]
 	path = examples/mnist
-	url = https://github.com/PhilippvK/stm32-tflm-mnist.git
+	url = https://github.com/tum-ei-eda/stm32-tflm-mnist.git
 [submodule "examples/tinyface"]
 	path = examples/tinyface
-	url = https://github.com/munober/stm32-tflm-tinyface.git
+	url = https://github.com/tum-ei-eda/stm32-tflm-tinyface.git
